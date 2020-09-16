@@ -1,0 +1,10 @@
+This folder contains all the data for the analysis
+1. AuCO_ReQM: 1185 Conformation for CO after ReQM calculation;
+2. AuCOOH_ReQM: 1059 Conformation for OCOH after ReQM calculation;
+3. AuCO_Vacuum: 1185 Conformation for CO after vacuum calculation;
+4. AuCOOH_Vacuum: 1059 Conformation for OCOH after vacuum calculation;
+5. Energetic_File: Process all the data and write summary files in this folder; 
+	           Run CO_Analysis.py and OCOH_Analysis.py seperately to generate summary file;
+6. Energetic_Plot: Plot the files from <Energetic File> folder
+		   Run Plot_CO.py and Plot_OCOH.py seperately to generate all the figures.
+		  
